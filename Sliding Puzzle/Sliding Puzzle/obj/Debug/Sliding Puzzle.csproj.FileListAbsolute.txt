@@ -1,0 +1,10 @@
+C:\Users\Damian\Desktop\Sliding Puzzle\Sliding Puzzle\bin\Debug\Sliding Puzzle.exe.config
+C:\Users\Damian\Desktop\Sliding Puzzle\Sliding Puzzle\bin\Debug\Sliding Puzzle.exe
+C:\Users\Damian\Desktop\Sliding Puzzle\Sliding Puzzle\bin\Debug\Sliding Puzzle.pdb
+C:\Users\Damian\Desktop\Sliding Puzzle\Sliding Puzzle\obj\Debug\Sliding Puzzle.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\Sliding Puzzle\Sliding Puzzle\obj\Debug\Sliding_Puzzle.Main.resources
+C:\Users\Damian\Desktop\Sliding Puzzle\Sliding Puzzle\obj\Debug\Sliding_Puzzle.Properties.Resources.resources
+C:\Users\Damian\Desktop\Sliding Puzzle\Sliding Puzzle\obj\Debug\Sliding Puzzle.csproj.GenerateResource.Cache
+C:\Users\Damian\Desktop\Sliding Puzzle\Sliding Puzzle\obj\Debug\Sliding Puzzle.exe
+C:\Users\Damian\Desktop\Sliding Puzzle\Sliding Puzzle\obj\Debug\Sliding Puzzle.pdb
+C:\Users\Damian\Desktop\Sliding Puzzle\Sliding Puzzle\obj\Debug\Sliding_Puzzle.Game.resources
